@@ -1,2 +1,14 @@
 # loginmksports-journal
-HTML page archive and documentation
+
+资料页面发布仓库
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
